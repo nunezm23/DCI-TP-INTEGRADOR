@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ADS1263IPW") (type "KiCad") (uri "${KIPRJMOD}/../libraries/ADS1263/ADS1263IPW.pretty") (options "") (descr ""))
+)

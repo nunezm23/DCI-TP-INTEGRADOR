@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ADS1263IPW") (type "KiCad") (uri "C:/Users/mnnun/OneDrive/Documents/GitHub/DCI-TP-INTEGRADOR/pcb/libraries/ADS1263/ADS1263IPW.kicad_sym") (options "") (descr ""))
+)
